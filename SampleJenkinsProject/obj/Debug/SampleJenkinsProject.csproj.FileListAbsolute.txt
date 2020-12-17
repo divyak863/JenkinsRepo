@@ -1,0 +1,7 @@
+C:\Users\Divya\source\repos\DevOps\Day3\SampleJenkinsSolution\SampleJenkinsProject\bin\Debug\SampleJenkinsProject.exe.config
+C:\Users\Divya\source\repos\DevOps\Day3\SampleJenkinsSolution\SampleJenkinsProject\bin\Debug\SampleJenkinsProject.exe
+C:\Users\Divya\source\repos\DevOps\Day3\SampleJenkinsSolution\SampleJenkinsProject\bin\Debug\SampleJenkinsProject.pdb
+C:\Users\Divya\source\repos\DevOps\Day3\SampleJenkinsSolution\SampleJenkinsProject\obj\Debug\SampleJenkinsProject.csprojAssemblyReference.cache
+C:\Users\Divya\source\repos\DevOps\Day3\SampleJenkinsSolution\SampleJenkinsProject\obj\Debug\SampleJenkinsProject.csproj.CoreCompileInputs.cache
+C:\Users\Divya\source\repos\DevOps\Day3\SampleJenkinsSolution\SampleJenkinsProject\obj\Debug\SampleJenkinsProject.exe
+C:\Users\Divya\source\repos\DevOps\Day3\SampleJenkinsSolution\SampleJenkinsProject\obj\Debug\SampleJenkinsProject.pdb
